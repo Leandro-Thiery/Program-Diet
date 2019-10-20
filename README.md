@@ -1,2 +1,4 @@
-# Leandro-Thiery
-Program Diet
+# Program Diet
+Oleh:
+- Gilbert Lauren
+- Leandro Thiery
